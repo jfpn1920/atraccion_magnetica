@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\bin\Debug\net10.0\atraccion_magnetica.exe
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\bin\Debug\net10.0\atraccion_magnetica.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\bin\Debug\net10.0\atraccion_magnetica.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\bin\Debug\net10.0\atraccion_magnetica.dll
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\bin\Debug\net10.0\atraccion_magnetica.pdb
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.dll
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\refint\atraccion_magnetica.dll
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.pdb
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\atraccion_magnetica.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\atraccion_magnetica\atraccion_magnetica\obj\Debug\net10.0\ref\atraccion_magnetica.dll
